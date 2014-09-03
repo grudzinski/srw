@@ -1,3 +1,5 @@
+#!/usr/local/bin/node
+
 var log4js = require('log4js');
 var rc = require('rc');
 
