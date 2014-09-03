@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "bin": "./bin/srw.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grudzinski/srw.git"
+  },
   "scripts": {
     "test": "mocha"
   },
